@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Files to ignore
+index.html
+package-lock.json
+package.json
+
+# Mac OS
+**/.DS_Store
